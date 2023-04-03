@@ -1,0 +1,11 @@
+{
+    "name": "manonlambert/composer_quest2",
+    "autoload": {
+        "psr-4": {
+            "Cowsay\\": "src/"
+        }
+    },
+    "require": {
+        "gipetto/cowsay": "^1.1"
+    }
+}
